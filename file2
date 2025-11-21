@@ -4,4 +4,5 @@ remote change
 4th line remote merge
 5th line for content conflict-local
 6th line from master local-content conflict
+7th line from feature1 dev-2 content local conflict
 
